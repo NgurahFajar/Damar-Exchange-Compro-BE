@@ -30,6 +30,11 @@ jalankan aplikasi dengan perintah:
 
 Secara default aplikasi akan berjalan di http://localhost:8000/
 
+
+## Menjalankan seeder ke database
+
+`php artisan migrate:fresh --seed`
+
 ## Setup .env
 
 Buat file baru .env
